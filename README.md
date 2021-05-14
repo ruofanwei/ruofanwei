@@ -1,6 +1,7 @@
 ### Heyyo 👋  I'm Ruofan, frontend developer
 
-[![](http://img.shields.io/static/v1?label=twitter&message=ruofan&style=flat&logo=twitter&color=87dfd6)](https://twitter.com/ruofanzzz)
+[![](http://img.shields.io/static/v1?label=Twitter&message=ruofan&style=flat&logo=twitter&color=87dfd6)](https://twitter.com/ruofanzzz)
+[![](http://img.shields.io/static/v1?label=Medium&message=ruofan&style=flat&logo=medium&color=ff8882)](https://px732amgo81sp8.medium.com/)
 
 ### 🚀 Github stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruofanwei&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
