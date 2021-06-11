@@ -4,6 +4,7 @@
 [![](http://img.shields.io/static/v1?label=Medium&message=ruofan&style=flat&logo=medium&color=ff8882)](https://px732amgo81sp8.medium.com/)
 [![](http://img.shields.io/static/v1?label=LinkedIn&message=ruofan&style=flat&logo=LinkedIn&color=87dfd6)](https://www.linkedin.com/in/ruofan-wei-a65922132/)
 [![](http://img.shields.io/static/v1?label=Gitlab&message=ruofan&style=flat&logo=Gitlab&color=ff8882)](https://gitlab.damaiapp.tw/tinawei)
+[![](http://img.shields.io/static/v1?label=Blog&message=ruofan&style=flat&logo=Vercel&color=87dfd6)](https://next-blog-umber-seven.vercel.app/)
 
 ### 🚀 Github stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruofanwei&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
