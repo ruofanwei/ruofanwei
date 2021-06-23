@@ -1,6 +1,6 @@
 # Heyyo 👋  I'm Ruofan
 
-###  frontend developer
+###  web developer
 [![](http://img.shields.io/static/v1?label=Twitter&message=ruofan&style=flat&logo=twitter&color=87dfd6)](https://twitter.com/ruofanzzz)
 [![](http://img.shields.io/static/v1?label=Medium&message=ruofan&style=flat&logo=medium&color=ff8882)](https://px732amgo81sp8.medium.com/)
 [![](http://img.shields.io/static/v1?label=LinkedIn&message=ruofan&style=flat&logo=LinkedIn&color=87dfd6)](https://www.linkedin.com/in/ruofan-wei-a65922132/)
