@@ -7,16 +7,7 @@
 [![](http://img.shields.io/static/v1?label=Gitlab&message=ruofan&style=flat&logo=Gitlab&color=ff8882)](https://gitlab.damaiapp.tw/tinawei)
 [![](http://img.shields.io/static/v1?label=Gitbook&message=ruofan&style=flat&logo=Gitbook&color=87dfd6)](https://px732amgo81sp8.gitbook.io/knowledge-base/)
 
-<a align="center">
 
-```js
-const ruofan = {
-  bio: "Web Developer enthusiast",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, NextJs, ChakraUI, Sequelize],
-}
-```
-</a>
 
 
 
