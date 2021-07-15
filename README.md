@@ -4,7 +4,7 @@
 [![](http://img.shields.io/static/v1?label=Twitter&message=ruofan&style=flat&logo=twitter&color=87dfd6)](https://twitter.com/ruofanzzz)
 [![](http://img.shields.io/static/v1?label=Medium&message=ruofan&style=flat&logo=medium&color=ff8882)](https://px732amgo81sp8.medium.com/)
 [![](http://img.shields.io/static/v1?label=LinkedIn&message=ruofan&style=flat&logo=LinkedIn&color=87dfd6)](https://www.linkedin.com/in/ruofan-wei-a65922132/)
-[![](http://img.shields.io/static/v1?label=Gitlab&message=ruofan&style=flat&logo=Gitlab&color=ff8882)](https://gitlab.damaiapp.tw/tinawei)
+[![](http://img.shields.io/static/v1?label=Leetcode&message=ruofan&style=flat&logo=Leetcode&color=ff8882)](https://leetcode.com/ruofanzzz/)
 [![](http://img.shields.io/static/v1?label=Gitbook&message=ruofan&style=flat&logo=Gitbook&color=87dfd6)](https://px732amgo81sp8.gitbook.io/knowledge-base/)
 
 
