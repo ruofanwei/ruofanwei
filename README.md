@@ -1,9 +1,9 @@
 # Heyyo 👋  I'm Ruofan
 
 ###  web developer
-[![](http://img.shields.io/static/v1?label=Twitter&message=ruofan&style=flat&logo=twitter&color=87dfd6)](https://twitter.com/ruofanzzz)
+
 [![](http://img.shields.io/static/v1?label=Medium&message=ruofan&style=flat&logo=medium&color=ff8882)](https://px732amgo81sp8.medium.com/)
-[![](http://img.shields.io/static/v1?label=Leetcode&message=ruofan&style=flat&logo=Leetcode&color=ff8882)](https://leetcode.com/ruofanzzz/)
+
 [![](http://img.shields.io/static/v1?label=Blog&message=ruofan&style=flat&logo=Gitbook&color=87dfd6)](https://blog.errorbaker.tw/posts/ruofan/)
 
 
