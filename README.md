@@ -1,7 +1,6 @@
 # Heyyo 👋  I'm Ruofan
 
 [![](http://img.shields.io/static/v1?label=ErrorBaker&message=ruofan&style=flat&logo=Gitbook&color=87dfd6)](https://blog.errorbaker.tw/posts/ruofan/)
-[![](http://img.shields.io/static/v1?label=Blog&message=ruofan&style=flat&logo=vercel&color=87dfd6)](https://ruofan-blog.vercel.app/)
 
 
 
