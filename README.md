@@ -1,8 +1,9 @@
-# Heyyo 👋  I'm Ruofan
-
-[![](http://img.shields.io/static/v1?label=ErrorBaker&message=ruofan&style=flat&logo=Gitbook&color=87dfd6)](https://blog.errorbaker.tw/posts/ruofan/)
-
-
+<p align="center">
+  <samp>
+    <a href="https://blog.errorbaker.tw/posts/ruofan/">blog</a> .
+    <a href="https://twitter.com/ruofanzzz">tweets</a> 
+  </samp>
+</p>
 
 
 
