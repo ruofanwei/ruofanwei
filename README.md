@@ -1,7 +1,6 @@
 <p align="center">
   <samp>
     <a href="https://blog.errorbaker.tw/posts/ruofan/">blog</a> .
-    <a href="https://px732amgo81sp8.medium.com/">medium</a> .
     <a href="https://twitter.com/ruofanzzz">tweets</a> 
   </samp>
 </p>
